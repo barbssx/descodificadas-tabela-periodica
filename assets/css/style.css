@@ -1,0 +1,93 @@
+:root{
+    --shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    font-family: "Berkshire Swash", serif;
+
+}
+
+
+td {
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    width: 50px;
+    color: black;
+}
+
+table,
+ th{
+    padding: 10px;
+}
+
+
+
+
+
+#atomico {
+    font-size: 15px;
+}
+#simbolo {
+    font-size: 20px;
+}
+
+#nome {
+    font-size: 13px;
+}
+
+#peso {
+    font-size: 10px;
+}
+
+li {
+   list-style-type: none;
+}
+
+
+
+#nao-metais {
+    background-color: rgb(145, 172, 227);
+    box-shadow: var(--shadow);
+}
+
+#gases-nobres {
+    background-color: rgb(243, 134, 134);
+    box-shadow: var(--shadow);
+}
+
+#metais-alcalinos {
+    background-color: rgb(255, 255, 155);
+    box-shadow: var(--shadow);
+}
+
+#metais-alcalinosterrosos {
+    background-color: rgb(247, 183, 209);
+    box-shadow: var(--shadow);
+}
+
+#halogenios {
+    background-color: rgb(215, 151, 227);
+    box-shadow: var(--shadow);
+}
+
+#semimetais {
+    background-color: rgb(255, 209, 144);
+    box-shadow: var(--shadow);
+}
+
+#metais-transicao {
+    background-color: rgb(163, 255, 180);
+    box-shadow: var(--shadow);
+}
+
+#metais-representativos {
+    background-color: gray;
+    box-shadow: var(--shadow);
+}
+
+#lantanideos {
+    background-color: rgb(153, 132, 124);
+    box-shadow: var(--shadow);
+}
+
+#actinidios {
+    background-color: rgb(136, 206, 217);
+    box-shadow: var(--shadow);
+}
